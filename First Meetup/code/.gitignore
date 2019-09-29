@@ -1,0 +1,8 @@
+/.ipynb_checkpoints
+/*.xls
+/essays
+/data
+/__pycache__
+/.vscode
+/binary_data
+/models
